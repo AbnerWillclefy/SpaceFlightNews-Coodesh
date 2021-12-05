@@ -1,8 +1,17 @@
-# Space Flight News
+# Space Flight News 🚀
 
 ## Sobre o projeto
 
-Este projeto consome a api Space Flight News e lista os artigos para o usuário
+Este projeto consome a Space Flight News API e lista os artigos para o usuário
+
+## Tecnologias utilizadas
+- HTML
+- Javascript
+- Typescript
+- ReactJS
+- ChakraUI
+- Axios
+- React Icons
 
 ### Instalação
 ```
@@ -24,3 +33,5 @@ $ npm start
 
 # Acesse http://localhost:3000 no seu navegador.
 ```
+
+*This is a challenge by Coodesh*
